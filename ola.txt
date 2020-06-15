@@ -1,1 +1,11 @@
-olá mundo!
+git clone [url] - Faz uma cópia do repositório
+
+git add .
+
+git commit -m "Mensagem"
+
+git push
+
+
+
+git pull
